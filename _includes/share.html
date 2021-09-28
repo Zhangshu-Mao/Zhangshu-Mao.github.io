@@ -1,0 +1,5 @@
+<section class="share">
+  <a class="share-link" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}{% if page.description %}&text={{ page.description | url_escape }}{% else %}{{ page.title | url_escape }}{% endif %}{% if site.twitter %}&via={{ site.twitter }}{% endif %}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+    Share on Twitter 🐦
+  </a>
+</section>
