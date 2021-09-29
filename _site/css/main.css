@@ -356,9 +356,9 @@ p.readmore { text-align: right; }
 
 .post_meta .author_meta img { height: 24px; width: 24px; }
 
-.article-content a { border-bottom: 1px dotted red; text-decoration: none; }
+.article-content a { border-bottom: 1px solid rgba(255, 0, 0, 0.6); text-decoration: none; }
 
-.article-content a:hover { color: red; border-bottom: 1px dotted red; }
+.article-content a:hover { color: red; border-bottom: 1px solid rgba(255, 0, 0, 0.6); }
 
 .article-footer { padding: 2rem 0; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; }
 

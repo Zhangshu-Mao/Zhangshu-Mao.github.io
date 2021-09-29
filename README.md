@@ -6,3 +6,5 @@ You can view the blog at [https://Zhangshu-Mao.github.io](https://Zhangshu-Mao.g
 
 This blog uses [Jekyll-simple](https://github.com/wild-flame/jekyll-simple), it is a variant of ([Jekyll](https://github.com/jekyll/jekyll)).
 
+## Additional
+Rememeber to run `python tag_generator.py` everytime after you add a new tag.
