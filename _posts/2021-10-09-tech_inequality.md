@@ -63,7 +63,7 @@ And if we take a look at the map of the [internet speed of the world](https://wo
 
 ![]({{site.baseurl}}/assets/img/post_img/2021-10-09-img2.png){:height="80%" width="80%" .center}
 
-Overlapping this map with a map of GDP:
+Overlapping this map with a [world map of GDP](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?view=map):
 
 ![]({{site.baseurl}}/assets/img/post_img/2021-10-09-img3.png){:height="80%" width="80%" .center}
 
