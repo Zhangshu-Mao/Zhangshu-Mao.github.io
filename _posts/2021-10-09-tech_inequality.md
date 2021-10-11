@@ -92,11 +92,14 @@ This is a barrier that has always been there, and will probably still be there i
 ---
 
 ## Are we even trying?
-Of course! I'm not the only one who has realized this information inequality.
-There are plenty of people who are trying to resist this negative feedback.
-Open source community for example, is a very good start.
-Taking Wikipedia as an example: It's a centralized information platform (in a sense that you only need to visit one webpage for all the information you need), but __everyone__ can edit it.
+Of course!
+
+There are plenty of people who are trying to resist this negative feedback loop of techno-inequality.
+Open source community like Wikipedia for example, is doing a very good job:
+It's a centralized information platform (in a sense that you only need to visit one webpage for all the information you need), but __everyone__ can edit it.
 The knowledge base is expanded by providing editing rights to everyone.
 But at the same time, it gives a space for people to talk about some topic and to merge their own opinion into the webpage.
 This also enhanced the credibility of the information.
-Although Wikipedia is not a perfect platform, but at least it's a start. (Please donate 💷.)
+Although Wikipedia is still not a perfect platform, but at least it's a start.
+
+On the other hand, private projects like Elon Musk's [Starlink](https://www.starlink.com) is trying to cover all basic internet access needs of people who lives in rural area around the globe.
